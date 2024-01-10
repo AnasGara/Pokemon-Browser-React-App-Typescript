@@ -1,4 +1,12 @@
 # Welcome to the pokimon APP 
+## It is built with REACT 
+Using TS 
+Using Axios, Reducer and Async/Await 
+Implementing also pagination and deployed on netlify on:  
+
+
+
+
 
 
 ----
